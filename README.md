@@ -1,4 +1,4 @@
-# Assignment 2: D3 + React Topology (TypeScript)
+# D3 + React Topology (TypeScript)
 
 This project visualizes a draggable topology using D3 and React with TypeScript, including nested drag-and-drop for the California Sites container.
 
